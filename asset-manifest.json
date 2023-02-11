@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todolive/static/css/main.4a761a5f.css",
+    "main.js": "/todolive/static/js/main.4553719e.js",
+    "static/js/787.7c6abdb8.chunk.js": "/todolive/static/js/787.7c6abdb8.chunk.js",
+    "index.html": "/todolive/index.html",
+    "main.4a761a5f.css.map": "/todolive/static/css/main.4a761a5f.css.map",
+    "main.4553719e.js.map": "/todolive/static/js/main.4553719e.js.map",
+    "787.7c6abdb8.chunk.js.map": "/todolive/static/js/787.7c6abdb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a761a5f.css",
+    "static/js/main.4553719e.js"
+  ]
+}
